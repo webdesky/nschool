@@ -1,0 +1,241 @@
+student_name,student_gender,caste,sub_caste,class_name,section_name,aadhar_number,student_dob,transport_id,dormitory_id,address,student_phone,student_email,student_password,blood_group,admission_number,parent_name,mother_name,parent_address,parent_phone,parent_email,parent_password,profession
+Pooja ,,,,First,A,,,,,,9440787711,182@frontline.com,123456,NULL,182,Raghu,,NULL,9440787711,raghu@frontline.com,123456,NULL
+Bhavagna K,,,,First,A,,,,,,9885044633,183@frontline.com,123456,NULL,183,Rama krishna reddy,,,9885044633,ramakrishnareddy@frontline.com,123456,
+Sham Farazuddin,,,,First,A,,,,,,9010279575,184@frontline.com,123456,NULL,184,Tazuddin,,,9010279575,tazuddin@frontline.com,123456,
+P Varsha,,,,First,A,,,,,,9676037215,185@frontline.com,123456,NULL,185,Mahesh,,,9676037215,mahesh@frontline.com,123456,
+Uma shankar,,,,First,A,,,,,,9949884489,186@frontline.com,123456,NULL,186,Kistaiah,,,9949884489,kistaiah@frontline.com,123456,
+Shibha Nikath,,,,First,A,,,,,,8008159145,187@frontline.com,123456,NULL,187,Shaik Md Rafeeq,,NULL,8008159145,shaikmdrafeeq@frontline.com,123456,NULL
+Chaitrika,,,,First,A,,,,,,9948481261,188@frontline.com,123456,NULL,188,Sayappa,,,9948481261,sayappa@frontline.com,123456,
+K Bhavya sri,,,,First,A,,,,,,7674837460,189@frontline.com,123456,NULL,189,Srinivas,,,7674837460,srinivas1@frontline.com,123456,
+Sreeha Mastha,female,,,First,A,,,,,,9441225763,204@frontline.com,123456,NULL,204,M Ramulu,,NULL,9441225763,ramulu@frontline.com,123456,NULL
+Abdul Ahed Khan,,,,First,A,,,,,,9440268008,205@frontline.com,123456,NULL,205,Waheed Khan,,,9440268008,waheedkhan@frontline.com,123456,
+B Aarushi,,,,First,A,,,,,,9032740143,206@frontline.com,123456,NULL,206,Kapil,,,9032740143,kapil@frontline.com,123456,
+Vamshi Krishna O,male,,,First,A,,,,,,9177304535,207@frontline.com,123456,NULL,207,O Subhash,,NULL,9177304535,Osubhash@frontline.com,123456,NULL
+Md Abdul Muqtadir Hussain,male,,,First,B,,,,,,9177027575,208@frontline.com,123456,NULL,208,Gaffar Hussain,,,9177027575,gaffarhussain@frontline.com,123456,
+Sri hansh,,,,First,A,,,,,,9966909925,209@frontline.com,123456,NULL,209,Ajay Kumar,,,9966909925,ajaykumar@frontline.com,123456,
+M Sakshi shivanand,,,,First,A,,,,,,9160566080,210@frontline.com,123456,NULL,210,Srikanth,,,9160566080,srikanth@frontline.com,123456,
+Uzair Shareef,,,,First,A,,,,,,9948020814,211@frontline.com,123456,NULL,211,Hansar shareef,,,9948020814,hansarshareef@frontline.com,123456,
+Doma Revan Sai,,,,First,A,,,,,,9642265969,212@frontline.com,123456,NULL,212,D Ravi,,NULL,9642265969,dravi@frontline.com,123456,NULL
+C.Karthik,,,,First,A,,,,,,9502321482,213@frontline.com,123456,NULL,213,C.Bichappa,,NULL,9502321482,cbichappa@frontline.com,123456,NULL
+Doma Nadhika,,,,First,A,,,,,,9701279599,214@frontline.com,123456,NULL,214,D.Srinivas,,,9701279599,dsrinivas@frontline.com,123456,
+B.Bhavya Sri,,,,First,A,,,,,,9550775009,223@frontline.com,123456,NULL,223,B.Venkatesham,,,9550775009,bvenkatesham@frontline.com,123456,
+Zunaira Khan,,,,First,A,,,,,,9553155568,224@frontline.com,123456,NULL,224,Nemathulla Khan,,,9553155568,nemathullakhan@frontline.com,123456,
+Sailamgari vishwatha,,,,First,A,,,,,,9985535138,225@frontline.com,123456,NULL,225,S. Basanth,,,9985535138,sbasanth@frontline.com,123456,
+Md. Faizaan Ali,,,,First,A,,,,,,9247799809,226@frontline.com,123456,NULL,226,Md. Vilayath Ali,,,9247799809,mdvilayathali@frontline.com,123456,
+Kotam Surya Teja,,,,First,A,,,,,,9505344427,227@frontline.com,123456,NULL,227,K.Krishna,,,9505344427,kkrishna@frontline.com,123456,
+Jangani navajyothi,,,,First,A,,,,,,8497907340,228@frontline.com,123456,NULL,228,Dastappa,,,8497907340,dastappa@frontline.com,123456,
+Byagari Praneeth,,,,First,A,,,,,,8498876823,232@frontline.com,123456,NULL,232,B Ramulu,,,8498876823,bramulu@frontline.com,123456,
+B Arjun Prasad,,,,First,A,,,,,,9676306566,233@frontline.com,123456,NULL,233,B Narsimha,,,9676306566,bnarsimha@frontline.com,123456,
+U Akshara ,,,,First,A,,,,,,9959152445,234@frontline.com,123456,NULL,234,Narsimlu,,,9959152445,narsimlu@frontline.com,123456,
+MD Azharuddin,,,,First,A,,,,,,6300773088,235@frontline.com,123456,NULL,235,MD Taufeeq,,NULL,6300773088,mdtaufeeq@frontline.com,123456,NULL
+Md Aaqib,,,,First,A,,,,,,7382804327,236@frontline.com,123456,NULL,236,Ahmed pasha,,,7382804327,ahmedpasha@frontline.com,123456,
+Shivaji,,,,First,A,,,,,,9985014277,238@frontline.com,123456,NULL,238,Raghu A,,,9985014277,raghua@frontline.com,123456,
+M.Vaibhavi Sreepurnima,,,,First,A,,,,,,8125188951,239@frontline.com,123456,NULL,239,M Manohar Babu,,,8125188951,mmanoharbabu@frontline.com,123456,
+Sri Thanvi,,,,First,A,,,,,,8317694539,241@frontline.com,123456,NULL,241,Sravan,,NULL,8317694539,sravan@frontline.com,123456,NULL
+Vijeyesh raj,,,,First,A,,,,,,8142786465,242@frontline.com,123456,NULL,242,T Harish,,,8142786465,tharish@frontline.com,123456,
+Nehal ,,,,First,A,,,,,,8121948181,291@frontline.com,123456,NULL,291,M Venkataiah,,NULL,8790066035,mvenkataiah@frontline.com,123456,NULL
+Tarjum,,,,First,A,,,,,,7993746493,292@frontline.com,123456,NULL,292,naseer,,,7993746493,naseer@frontline.com,123456,
+P Ankush,,,,First,B,,,,,,9440734826,171@frontline.com,123456,NULL,171,Venkatesh,,,9440734826,venkatesh@frontline.com,123456,
+K Krithika,,,,First,B,,,,,,9110364693,172@frontline.com,123456,NULL,172,Bala raju,,,9110364693,balaraju@frontline.com,123456,
+Abhishek Patel,,,,First,B,,,,,,8639457886,173@frontline.com,123456,NULL,173,Rupender Patel,,,8639457886,rupenderpatel@frontline.com,123456,
+Rumeza Takrem,,,,First,B,,,,,,9032743854,174@frontline.com,123456,NULL,174,Muzahid Ahmed,,,9032743854,muzahidahmed@frontline.com,123456,
+Zoqiya Fahim,,,,First,B,,,,,,9866500818,175@frontline.com,123456,NULL,175,Faheemuddin,,,9866500818,faheemuddin@frontline.com,123456,
+C Akhilesh,,,,First,B,,,,,,9515333343,176@frontline.com,123456,NULL,176,Srinivas,,NULL,9515333343,srinivas2@frontline.com,123456,NULL
+Abu Maaz,male,,,First,B,,,,,,9704871300,177@frontline.com,123456,NULL,177,akthar pasha,,NULL,9704871300,Akthar@frontline.com,123456,NULL
+N Rinesh goud,,,,First,B,,,,,,9949303449,178@frontline.com,123456,NULL,178,N Bala krishna,,NULL,9949303449,Nbalakrishna@frontline.com,123456,NULL
+Md Haneef,,,,First,B,,,,,,9985245561,179@frontline.com,123456,NULL,179,Md Akram,,,9985245561,mdakram@frontline.com,123456,
+Jasvika Goud,,,,First,B,,,,,,9705892921,190@frontline.com,123456,NULL,190,Sangaiah Goud,,,9705892921,sangaiahgoud@frontline.com,123456,
+Shaik Mustakin,,,,First,B,,,,,,8885170770,191@frontline.com,123456,NULL,191,Muzahid,,,8885170770,muzahid@frontline.com,123456,
+M Manikanta,,,,First,B,,,,,,9550018135,192@frontline.com,123456,NULL,192,Venkatappa,,,9550018135,venkatappa@frontline.com,123456,
+S Sohail,,,,First,B,,,,,,8142548278,193@frontline.com,123456,NULL,193,Khadir Pasha,,,8142548278,khadirpasha@frontline.com,123456,
+C Manikanta,,,,First,B,,,,,,9866527656,194@frontline.com,123456,NULL,194,C Raju,,,9866527656,craju@frontline.com,123456,
+Ayesha Tarmeen,,,,First,B,,,,,,9177027575,195@frontline.com,123456,NULL,195,Gaffar Hussain,,,9177027575,gaffarhussain@frontline.com,123456,
+Ishiya Begum,,,,First,B,,,,,,9866668976,196@frontline.com,123456,NULL,196,Md Ahmed,,,9866668976,mdahmed@frontline.com,123456,
+Ashwini,,,,First,B,,,,,,9573272596,197@frontline.com,123456,NULL,197,Ch Balram,,,9573272596,chbalram@frontline.com,123456,
+N Swetha,,,,First,B,,,,,,9948636031,198@frontline.com,123456,NULL,198,Linga reddy,,,9948636031,lingareddy@frontline.com,123456,
+Pratusha M,,,,First,B,,,,,,9542392866,199@frontline.com,123456,NULL,199,MSantosh kumar,,NULL,9542392866,Msantoshkumar@frontline.com,123456,NULL
+Srikar,,,,First,B,,,,,,9701735635,200@frontline.com,123456,NULL,200,Chandrappa,,,9701735635,chandrappa1@frontline.com,123456,
+Akhil Meena ,,,,First,B,,,,,,9782944751,201@frontline.com,123456,NULL,201,Gopi chand,,NULL,9782944751,gopichand@frontline.com,123456,NULL
+T Sudiksha,,,,First,A,,,,,,9492199800,202@frontline.com,123456,NULL,202,T Srinivas,,,9492199800,tsrinivas@frontline.com,123456,
+K sandeep,,,,First,B,,,,,,9704751687,215@frontline.com,123456,NULL,215,kallur nagappa,,,9704751687,kallurnagappa@frontline.com,123456,
+Pankaj,,,,First,B,,,,,,8121451147,217@frontline.com,123456,NULL,217,Asharam,,,8121451147,asharam@frontline.com,123456,
+Mala ramana,male,,,First,B,,,,,,9908493754,218@frontline.com,123456,NULL,218,Mala Srinivas,,,9908493754,malasrinivas@frontline.com,123456,
+Vivek,,,,First,B,,,,,,9985574365,219@frontline.com,123456,NULL,219,M.purushotham,,,9985574365,mpurushotham@frontline.com,123456,
+mala arun kumar,,,,First,B,,,,,,9502132201,220@frontline.com,123456,NULL,220,mala yadappa,,,9502132201,malayadappa@frontline.com,123456,
+B.Madhu priya,,,,First,B,,,,,,9908746895,221@frontline.com,123456,NULL,221,B.Srinu,,,9908746895,bsrinu@frontline.com,123456,
+Neerati akhileshwar,,,,First,B,,,,,,9603831706,222@frontline.com,123456,NULL,222,neerati narsimulu,,,9603831706,neeratinarsimulu@frontline.com,123456,
+K Mahesh,,,,First,B,,,,,,9052619622,229@frontline.com,123456,NULL,229,K Shanthappa,,,9052619622,kshanthappa@frontline.com,123456,
+Golla Pavani,,,,First,B,,,,,,9000179230,230@frontline.com,123456,NULL,230,Ram chandraiah,,,9000179230,ramchandraiah@frontline.com,123456,
+M Sowmya,,,,First,B,,,,,,8374409939,231@frontline.com,123456,NULL,231,Bonesh,,,8374409939,bonesh@frontline.com,123456,
+Navya sri,,,,First,B,,,,,,,237@frontline.com,123456,NULL,237,Suresh,,,,suresh1@frontline.com,123456,
+Huma Khanam,,,,First,B,,,,,,9440832461,243@frontline.com,123456,NULL,243,Shakathulla khan,,,9440832461,shakathullakhan@frontline.com,123456,
+Affan Ali,,,,First,B,,,,,,9848553122,203@frontline.com,123456,NULL,203,Khaleel,,,9848553122,khaleel@frontline.com,123456,
+Srivasthav,,,,First,B,,,,,,9398821570,293@frontline.com,123456,NULL,293,Raju,,NULL,9398821570,raju@frontline.com,123456,NULL
+Nabeela shams,,,,Second,A,,,,,,9010279575,113@frontline.com,123456,NULL,113,Tazuddin,,,9010279575,tazuddin@frontline.com,123456,
+Rohit P,male,,,Second,A,,,,,,9866506348,114@frontline.com,123456,NULL,114,Anjilappa,,NULL,9866506348,anjilappa@frontline.com,123456,NULL
+AFWAN,,,,Second,A,,,,,,9866257029,116@frontline.com,123456,NULL,116,MD Arif,,,9866257029,mdarif@frontline.com,123456,
+Karthik  R,,,,Second,A,,,,,,9959135673,117@frontline.com,123456,NULL,117,Buggappa,,,9959135673,buggappa@frontline.com,123456,
+Bykani Vishnu,,,,Second,A,,,,,,9959968004,119@frontline.com,123456,NULL,119,B Shiva Kumar,,,9959968004,bshivakumar@frontline.com,123456,
+Masrath Jaha,,,,Second,A,,,,,,9705433059,121@frontline.com,123456,NULL,121,Syed Jaffar,,,9705433059,syedjaffar@frontline.com,123456,
+Veekshith Reddy,,,,Second,A,,,,,,9652485398,131@frontline.com,123456,NULL,131,Indra Sena reddy,,NULL,9652485398,indrasenareddy@frontline.com,123456,NULL
+K Shivanand,,,,Second,A,,,,,,8367754478,132@frontline.com,123456,NULL,132,Chandra skekar,,,8179646142,chandraskekar@frontline.com,123456,
+K Manisha,,,,Second,A,,,,,,8897039546,135@frontline.com,123456,NULL,135,K venkatesh,,,8897039546,kvenkatesh@frontline.com,123456,
+Nandagopal,,,,Second,A,,,,,,9000513142,143@frontline.com,123456,NULL,143,Laxmappa,,,9000513142,laxmappa@frontline.com,123456,
+Aslam,,,,Second,A,,,,,,7396663711,144@frontline.com,123456,NULL,144,Md Goremeya,,,7396663711,mdgoremeya@frontline.com,123456,
+Avantika,,,,Second,A,,,,,,7799105662,146@frontline.com,123456,NULL,146,Krishna K,,,7799105662,krishnak@frontline.com,123456,
+Md Hussain,,,,Second,A,,,,,,9985245561,148@frontline.com,123456,NULL,148,Md Akram,,,9985245561,mdakram@frontline.com,123456,
+Sai varshini,,,,Second,A,,,,,,9963007497,149@frontline.com,123456,NULL,149,Gopal P,,,9963007497,gopalp@frontline.com,123456,
+Shukla reddy ,,,,Second,A,,,,,,9441561661,150@frontline.com,123456,NULL,150,Chandra shekar reddy,,,9441561661,chandrashekarreddy@frontline.com,123456,
+Niharika,,,,Second,A,,,,,,9848510864,151@frontline.com,123456,NULL,151,Raghu,,NULL,9440787711,raghu@frontline.com,123456,NULL
+MD Rehan,,,,Second,A,,,,,,9182609795,152@frontline.com,123456,NULL,152,Md Moiz,,,9182609795,mdmoiz@frontline.com,123456,
+Charan Raj,,,,Second,A,,,,,,9542807548,153@frontline.com,123456,NULL,153,S Shiva raj,,,9542807548,sshivaraj@frontline.com,123456,
+B Nikitha,,,,Second,A,,,,,,9885952314,154@frontline.com,123456,NULL,154,B Santosh,,NULL,9885952314,bsantosh@frontline.com,123456,NULL
+Budda Harini,,,,Second,A,,,,,,9885277422,155@frontline.com,123456,NULL,155,Sai raj,,,9885277422,sairaj@frontline.com,123456,
+K Sai Vasudha,,,,Second,A,,,,,,8341745591,157@frontline.com,123456,NULL,157,Ram chander,,NULL,9848505645,kramchander@frontline.com,123456,NULL
+K Sri Ram,,,,Second,A,,,,,,7893826489,158@frontline.com,123456,NULL,158,Dhanunjay,,NULL,7893826489,dhanunjay@frontline.com,123456,NULL
+K Sharath Reddy,,,,Second,A,,,,,,8008800529,160@frontline.com,123456,NULL,160,Chandra reddy,,,8008800529,chandrareddy@frontline.com,123456,
+B Jaswanth,,,,Second,A,,,,,,7893810472,161@frontline.com,123456,NULL,161,B Gopal,,NULL,7893810472,bgopal1@frontline.com,123456,NULL
+Mahenoor Khanam,,,,Second,A,,,,,,9490147676,162@frontline.com,123456,NULL,162,Afzal Khan,,,9490147676,afzalkhan@frontline.com,123456,
+M Praneeth,,,,Second,A,,,,,,9573586010,168@frontline.com,123456,NULL,168,Sidramappa,,,9573586010,sidramappa@frontline.com,123456,
+K Swathi,,,,Second,A,,,,,,9908130279,240@frontline.com,123456,NULL,240,Chandrappa,,,9908130279,chandrappa@frontline.com,123456,
+ Mohammed Adil Sakib,,,,Second,A,,,,,,8096304334,244@frontline.com,123456,NULL,244,Mohammed Jahangir,,,8096304334,mohammedjahangir@frontline.com,123456,
+Mohammed Rumman,female,,,Second,A,,,,,,9966775542,245@frontline.com,123456,NULL,245,Mohammed Fareed,,,9966775542,mohammedfareed@frontline.com,123456,
+Mala Sai Charan,,,,Second,A,,,,,,9908493754,246@frontline.com,123456,NULL,246,Mala Srinivas,,,9908493754,malasrinivas@frontline.com,123456,
+M.Sushanth,,,,Second,A,,,,,,9000618568,247@frontline.com,123456,NULL,247,Venkataiah,,,9000618568,venkataiah1@frontline.com,123456,
+G.Chetan,,,,Second,A,,,,,,9177918865,248@frontline.com,123456,NULL,248,G.Ravinder,,,9177918865,gravinder@frontline.com,123456,
+Boini Sai Tarun,,,,Second,A,,,,,,9948081059,249@frontline.com,123456,NULL,249,B.Yadaiah,,,9948081059,byadaiah@frontline.com,123456,
+M.Bhavani,,,,Second,A,,,,,,9908445687,250@frontline.com,123456,NULL,250,M.Srikanth,,,9908445687,msrikanth@frontline.com,123456,
+Pasupula Pavani,,,,Second,A,,,,,,9849268437,251@frontline.com,123456,NULL,251,Pasupula Ramulu,,,9849268437,pasupularamulu@frontline.com,123456,
+M.D Tanveer,,,,Second,A,,,,,,9652409110,252@frontline.com,123456,NULL,252,Abdul Azeez,,NULL,8465839603,abdulazeez@frontline.com,123456,NULL
+M.Lokesh,,,,Second,A,,,,,,9866356724,253@frontline.com,123456,NULL,253,M.Satyam,,,9866356724,msatyam@frontline.com,123456,
+Doma Nikhil,,,,Second,A,,,,,,9642265969,254@frontline.com,123456,NULL,254,D Ravi,,NULL,9642265969,dravi@frontline.com,123456,NULL
+Jamal Baba,,,,Second,A,,,,,,9705935405,255@frontline.com,123456,NULL,255,Shaik Salauddin,,,9705935405,shaiksalauddin@frontline.com,123456,
+C.Ganesh,,,,Second,A,,,,,,9502321482,256@frontline.com,123456,NULL,256,C.Bichappa,,NULL,9502321482,cbichappa@frontline.com,123456,NULL
+T.Vardhan,,,,Second,A,,,,,,9885019453,257@frontline.com,123456,NULL,257,T.Shanker,,,9885019453,tshanker@frontline.com,123456,
+Budagajangam Rakesh,,,,Second,A,,,,,,8143225523,258@frontline.com,123456,NULL,258,B.Ashappa,,,8143225523,bashappa@frontline.com,123456,
+Mollagani Vinay,,,,Second,A,,,,,,9985574365,259@frontline.com,123456,NULL,259,M.purushotham,,,9985574365,mpurushotham@frontline.com,123456,
+E Hansika,,,,Second,A,,,,,,9490120865,290@frontline.com,123456,NULL,290,E Suresh,,NULL,9490120865,esuresh@frontline.com,123456,NULL
+M Srikar,,,,Third,A,,,,,,9966909925,81@frontline.com,123456,NULL,81,Ajay Kumar,,,9966909925,ajaykumar@frontline.com,123456,
+K Sai charan,,,,Third,A,,,,,,9550845211,84@frontline.com,123456,NULL,84,Gopal,,,9550845211,gopal@frontline.com,123456,
+N Akshitha,,,,Third,A,,,,,,9985438895,86@frontline.com,123456,NULL,86,N Veeranna ,,,9985438895,nveeranna@frontline.com,123456,
+Nikhil,,,,Third,A,,,,,,9959607080,87@frontline.com,123456,NULL,87,Narendra,,,9959607080,narendra@frontline.com,123456,
+Siri chandana,,,,Third,A,,,,,,9866252968,90@frontline.com,123456,NULL,90,Sangameshwar,,,9866252968,sangameshwar@frontline.com,123456,
+Palle Vaishnavi,,,,Third,A,,,,,,8143190223,91@frontline.com,123456,NULL,91,P Praveen,,,8143190223,ppraveen@frontline.com,123456,
+Rizwan khan,,,,Third,A,,,,,,8121713484,92@frontline.com,123456,NULL,92,Ayub khan,,,8121713484,ayubkhan@frontline.com,123456,
+SK Sajeed,,,,Third,A,,,,,,9705365933,93@frontline.com,123456,NULL,93,Tajuddin,,,9705365933,tajuddin@frontline.com,123456,
+J Rama krishna,,,,Third,A,,,,,,9618987334,95@frontline.com,123456,NULL,95,Ramesh,,,9618987334,ramesh@frontline.com,123456,
+M Bhuvaneshwari,,,,Third,A,,,,,,8187817165,96@frontline.com,123456,NULL,96,Sailu,,,8187817165,sailu@frontline.com,123456,
+G Ganesh Yadav,,,,Third,A,,,,,,9949912723,99@frontline.com,123456,NULL,99,Golla Hari Prasad,,,9949912723,gollahariprasad@frontline.com,123456,
+V Shanthi laxmi,,,,Third,A,,,,,,9989329852,100@frontline.com,123456,NULL,100,V Veera narayana,,NULL,9989329852,Vveeranarayana@frontline.com,123456,NULL
+M Manohar,,,,Third,A,,,,,,9550018135,102@frontline.com,123456,NULL,102,Venkatappa,,,9550018135,venkatappa@frontline.com,123456,
+Nanda kishore P,,,,Third,A,,,,,,9949021774,103@frontline.com,123456,NULL,103,P Veerappa,,NULL,9949021774,pveerappa@frontline.com,123456,NULL
+Pranavi M,,,,Third,A,,,,,,9963331142,104@frontline.com,123456,NULL,104,Venkataiah M,,NULL,9963331142,venkataiahm@frontline.com,123456,NULL
+Srinidhi,,,,Third,A,,,,,,9949594836,107@frontline.com,123456,NULL,107,Manoj kumar,,,9949594836,manojkumar@frontline.com,123456,
+M Sanjana ,,,,Third,A,,,,,,9542392866,109@frontline.com,123456,NULL,109,MSantosh kumar,,NULL,9542392866,Msantoshkumar@frontline.com,123456,NULL
+K Sree rani,,,,Third,A,,,,,,9848843123,111@frontline.com,123456,NULL,111,Veeranna,,,9848843123,veeranna@frontline.com,123456,
+Vinay K,,,,Third,A,,,,,,9052619622,118@frontline.com,123456,NULL,118,K Shanthappa,,,9052619622,kshanthappa@frontline.com,123456,
+Jettur sai teja ,,,,Third,A,,,,,,9948386507,123@frontline.com,123456,NULL,123,J Ravinder,,,9948386507,jravinder@frontline.com,123456,
+T Vamshidhar reddy ,,,,Third,A,,,,,,9948484489,126@frontline.com,123456,NULL,126,T Narsi reddy,,,9948484489,tnarsireddy@frontline.com,123456,
+PitLa Anurag deep,,,,Third,A,,,,,,9885916160,127@frontline.com,123456,NULL,127,PVR Praveen Kumar,,,9885916160,pvrpraveenkumar@frontline.com,123456,
+MD Rayyan,,,,Third,A,,,,,,6300773088,128@frontline.com,123456,NULL,128,MD Taufeeq,,NULL,6300773088,mdtaufeeq@frontline.com,123456,NULL
+Ajay,,,,Third,A,,,,,,9182147231,165@frontline.com,123456,NULL,165,Govind,,,9182147231,govind@frontline.com,123456,
+Md Rehan,,,,Third,A,,,,,,9581671857,166@frontline.com,123456,NULL,166,Kaleel,,,9581671857,kaleel@frontline.com,123456,
+M.Nikhitha,,,,Third,A,,,,,,9440921003,260@frontline.com,123456,NULL,260,M.Balu,,,9440921003,mbalu@frontline.com,123456,
+B.Ram Charan,male,,,Third,A,,,,,,9948081059,261@frontline.com,123456,NULL,261,B.Yadaiah,,,9948081059,byadaiah@frontline.com,123456,
+M.Navya Sri,,,,Third,A,,,,,,8886807198,263@frontline.com,123456,NULL,263,M.Yadaiah,,NULL,8886807198,myadaiah@frontline.com,123456,NULL
+Abhu faizan,,,,Fourth,A,,,,,,9704871300,64@frontline.com,123456,NULL,64,akthar pasha,,NULL,9704871300,Akthar@frontline.com,123456,NULL
+Fuzail Shaikh,,,,Fourth,A,,,,,,9704871300,66@frontline.com,123456,NULL,66,akthar pasha,,NULL,9704871300,Akthar@frontline.com,123456,NULL
+Bhavani N,,,,Fourth,A,,,,,,7799376112,67@frontline.com,123456,NULL,67,Mahantish,,NULL,7799376112,Mahantish@frontlineschool.com,123456,NULL
+M Hitesh,,,,Fourth,A,,,,,,9581618155,69@frontline.com,123456,NULL,69,M Shilendar,,,9581669735,mshilendar@frontline.com,123456,
+V Akshaya,,,,Fourth,A,,,,,,9989329852,71@frontline.com,123456,NULL,71,V Veera narayana,,NULL,9989329852,Vveeranarayana@frontline.com,123456,NULL
+Ifftekar Waseem,,,,Fourth,A,,,,,,8008159145,73@frontline.com,123456,NULL,73,Shaik Md Rafeeq,,NULL,8008159145,shaikmdrafeeq@frontline.com,123456,NULL
+Apoorva goud,,,,Fourth,A,,,,,,9949303449,75@frontline.com,123456,NULL,75,N Bala krishna,,NULL,9949303449,Nbalakrishna@frontline.com,123456,NULL
+Md Rayyan ahmed,,,,Fourth,A,,,,,,9502460645,76@frontline.com,123456,NULL,76,Md Shabbir,,NULL,9502460645,mdshabbir@frontline.com,123456,NULL
+Sai Akshaya,,,,Fourth,A,,,,,,9741601576,77@frontline.com,123456,NULL,77,Anand kumar,,NULL,9741601576,anandkumar@frontline.com,123456,NULL
+Rashmi K,,,,Fourth,A,,,,,,9885749310,78@frontline.com,123456,NULL,78,Dhanunjay,,NULL,7893826489,dhanunjay@frontline.com,123456,NULL
+B Abhishek,,,,Fourth,A,,,,,,7893810472,79@frontline.com,123456,NULL,79,B Gopal,,NULL,7893810472,bgopal1@frontline.com,123456,NULL
+Dinesh,,,,Fourth,A,,,,,,9949217080,97@frontline.com,123456,NULL,97,Ramu Nayak,,NULL,9949217080,ramunayakl@frontline.com,123456,NULL
+Arun Kumar P,,,,Fourth,A,,,,,,9866506348,115@frontline.com,123456,NULL,115,Anjilappa,,NULL,9866506348,anjilappa@frontline.com,123456,NULL
+M Vignesh,,,,Fourth,A,,,,,,9963026383,137@frontline.com,123456,NULL,137,M Venkatesh,,NULL,9963026383,mvenkatesh@frontline.com,123456,NULL
+MD Rayyan,,,,Fourth,A,,,,,,9948484487,139@frontline.com,123456,NULL,139,MD Khaja,,NULL,9948484487,mdkhaja@frontline.com,123456,NULL
+MD Obaid,,,,Fourth,A,,,,,,9848691608,140@frontline.com,123456,NULL,140,MD Khadir wali,,,9848691608,mdkhadirwali@frontline.com,123456,
+M Bhanu prasad,,,,Fourth,A,,,,,,8790066035,141@frontline.com,123456,NULL,141,M Venkataiah,,NULL,8790066035,mvenkataiah@frontline.com,123456,NULL
+Abhi Varshini,,,,Fourth,A,,,,,,8367754478,142@frontline.com,123456,NULL,142,Chandra shekar,,NULL,8367754478,chandrashekar@frontline.com,123456,NULL
+Parvez,male,,,Fourth,A,,,,,,9553070468,145@frontline.com,123456,NULL,145,Md Shafiuddin,,NULL,9553070468,mdshafiuddin@frontline.com,123456,NULL
+Shiva prasad,,,,Fourth,A,,,,,,9951675010,167@frontline.com,123456,NULL,167,Narender,,NULL,9951675010,narender@frontline.com,123456,NULL
+Shaik Akif,,,,Fourth,A,,,,,,9948649990,264@frontline.com,123456,NULL,264,Chand Pasha,,NULL,9948649990,chandpasha@frontline.com,123456,NULL
+Mohammed Rizwan,,,,Fourth,A,,,,,,9966775542,265@frontline.com,123456,NULL,265,Mohammed Fareed,,,9966775542,mohammedfareed@frontline.com,123456,
+Fareen Anjum,,,,Fourth,A,,,,,,9059821810,266@frontline.com,123456,NULL,266,Zaheed Ahmed,,,9059821810,zaheedahmed@frontline.com,123456,
+Bhagya sri,,,,Fourth,A,,,,,,7799039801,267@frontline.com,123456,NULL,267,Shiva kumar,,NULL,7799039801,shivakumar@frontline.com,123456,NULL
+B. Bhanu Prasad,,,,Fourth,A,,,,,,9550775009,268@frontline.com,123456,NULL,268,B.Venkatesham,,,9550775009,bvenkatesham@frontline.com,123456,
+Manasweni,,,,Fourth,A,,,,,,9849607506,269@frontline.com,123456,NULL,269,B.srinivas,,NULL,9849607506,bsrinivas@frontline.com,123456,NULL
+Safia,,,,Fourth,A,,,,,,9663005915,270@frontline.com,123456,NULL,270,Md Khayum Pasha,,NULL,9663005915,mdkhayumpasha@frontline.com,123456,NULL
+Doma Navanith Sagar,,,,Fourth,A,,,,,,9642265969,271@frontline.com,123456,NULL,271,D Ravi,,NULL,9642265969,dravi@frontline.com,123456,NULL
+M Lasya,female,,,Fifth,A,,,,,,9441225763,001@frontline.com,123456,NULL,1,M Ramulu,,NULL,9441225763,ramulu@frontline.com,123456,NULL
+Shestra reddy P,,,,Fifth,A,,,,,,9441561661,42@frontline.com,123456,NULL,42,Chandra shekar reddy,,,9441561661,chandrashekarreddy@frontline.com,123456,
+Karthik Kumar,,,,Fifth,A,,,,,,9848505645,45@frontline.com,123456,NULL,45,Ram chander,,NULL,9848505645,kramchander@frontline.com,123456,NULL
+O Sravani,female,,,Fifth,A,,,,,,9177304535,49@frontline.com,123456,NULL,49,O Subhash,,NULL,9177304535,Osubhash@frontline.com,123456,NULL
+Santosh K,,,,Fifth,A,,,,,,7799105662,52@frontline.com,123456,NULL,52,Krishna K,,,7799105662,krishnak@frontline.com,123456,
+Uday kumar A,,,,Fifth,A,,,,,,9100490596,53@frontline.com,123456,NULL,53,Mogulaiah,,,9100490596,mogulaiah@frontline.com,123456,
+B Niharika,,,,Fifth,A,,,,,,9059719133,54@frontline.com,123456,NULL,54,Maheshwar rao,,,9059719133,maheshwarrao@frontline.com,123456,
+M Sai charan,,,,Fifth,A,,,,,,7995513877,55@frontline.com,123456,NULL,55,Krishna Murthy,,,7995513877,krishnamurthy@frontline.com,123456,
+Sowmya  M,,,,Fifth,A,,,,,,9666756595,56@frontline.com,123456,NULL,56,Sudhakar,,,9666756595,sudhakar@frontline.com,123456,
+Md Omer,,,,Fifth,A,,,,,,9985245561,58@frontline.com,123456,NULL,58,Md Akram,,,9985245561,mdakram@frontline.com,123456,
+Maheshwari A,,,,Fifth,A,,,,,,9701338566,59@frontline.com,123456,NULL,59,Bheemappa,,,9701338566,bheemappa@frontline.com,123456,
+Sandhya,,,,Fifth,A,,,,,,9948386507,122@frontline.com,123456,NULL,122,J Ravinder,,,9948386507,jravinder@frontline.com,123456,
+MD Owais,,,,Fifth,A,,,,,,9848691608,138@frontline.com,123456,NULL,138,MD Khadir wali,,,9848691608,mdkhadirwali@frontline.com,123456,
+Sayed Khan,,,,Fifth,A,,,,,,7386154077,273@frontline.com,123456,NULL,273,Ghani Khan,,,7386154077,ghanikhan@frontline.com,123456,
+Shaik Abrar,,,,Fifth,A,,,,,,9704871180,274@frontline.com,123456,NULL,274,Shai Ayub,,,9704871180,shaiayub@frontline.com,123456,
+M.Nithin,,,,Fifth,A,,,,,,9440921003,275@frontline.com,123456,NULL,275,M.Balu,,,9440921003,mbalu@frontline.com,123456,
+Kotla Vennela,,,,Fifth,A,,,,,,9963335303,276@frontline.com,123456,NULL,276,K.Shashi Vardhan,,,9963335303,kshashivardhan@frontline.com,123456,
+Mohd Zameer Ahmed,,,,Fifth,A,,,,,,9059821810,277@frontline.com,123456,NULL,277,Zaheed Ahmed,,,9059821810,zaheedahmed@frontline.com,123456,
+Thalari saisowjanya,,,,Fifth,A,,,,,,9581580029,278@frontline.com,123456,NULL,278,Ramulu,,,9581580029,ramulu3@frontline.com,123456,
+MD.Kaif,,,,Fifth,A,,,,,,9553961737,279@frontline.com,123456,NULL,279,MD.Tanveer Patel,,,9553961737,mdtanveerpatel@frontline.com,123456,
+G.varshith Raj,,,,Fifth,A,,,,,,9951931652,280@frontline.com,123456,NULL,280,G.Veera Pratap,,,9951931652,gveerapratap@frontline.com,123456,
+Md. Imran,,,,Fifth,A,,,,,,9663005915,281@frontline.com,123456,NULL,281,Md Khayum Pasha,,NULL,9663005915,mdkhayumpasha@frontline.com,123456,NULL
+Rehan ali,,,,Sixth,A,,,,,,9948652919,26@frontline.com,123456,NULL,26,Md Iliyas Ali,,,9948652919,mdiliyasali@frontline.com,123456,
+M Gopi Krishna,,,,Sixth,A,,,,,,9440886069,27@frontline.com,123456,NULL,27,M Nagaiah,,,9440886069,mnagaiah@frontline.com,123456,
+Vamshi Krishna,,,,Sixth,A,,,,,,9440886069,28@frontline.com,123456,NULL,28,M Nagaiah,,,9440886069,mnagaiah@frontline.com,123456,
+Manikanta,,,,Sixth,A,,,,,,9989378208,31@frontline.com,123456,NULL,31,Babu raj P,,,9989378208,baburajp@frontline.com,123456,
+Afriya Afshan,,,,Sixth,A,,,,,,9502460645,32@frontline.com,123456,NULL,32,Md Shabbir,,,9959460513,mdshabbir1@frontline.com,123456,
+Fariya Tarannum,,,,Sixth,A,,,,,,9704871300,35@frontline.com,123456,NULL,35,akthar pasha,,NULL,9704871300,Akthar@frontline.com,123456,NULL
+N Venu teja,,,,Sixth,A,,,,,,8977171094,37@frontline.com,123456,NULL,37,N Laxman,,NULL,8977171094,nlaxman@frontline.com,123456,NULL
+M Bhavish,,,,Sixth,A,,,,,,9581669735,38@frontline.com,123456,NULL,38,M Shilendar,,,9581669735,mshilendar@frontline.com,123456,
+S Pavani,,,,Sixth,A,,,,,,9966966486,39@frontline.com,123456,NULL,39,S Ramesh,,,9966966486,sramesh@frontline.com,123456,
+Md Maaz,,,,Sixth,A,,,,,,8790938678,41@frontline.com,123456,NULL,41,Md Iqbal,,,8790938678,mdiqbal@frontline.com,123456,
+Praveen kumar M,,,,Sixth,A,,,,,,9000278323,51@frontline.com,123456,NULL,51,Laxmaiah,,,9000278323,laxmaiah@frontline.com,123456,
+Md Khizar,,,,Sixth,A,,,,,,9948909786,112@frontline.com,123456,NULL,112,Md Khaza moinuddin,,,9948909786,mdkhazamoinuddin@frontline.com,123456,
+N Karthik reddy,,,,Sixth,A,,,,,,9701324470,125@frontline.com,123456,NULL,125,Bichi reddy,,,9701324470,bichireddy@frontline.com,123456,
+C Mahesh reddy,,,,Sixth,A,,,,,,6303265471,130@frontline.com,123456,NULL,130,C Ram reddy,,NULL,6303265471,cramreddy@frontline.com,123456,NULL
+K Sridhar,,,,Sixth,A,,,,,,8897039546,136@frontline.com,123456,NULL,136,K venkatesh,,,8897039546,kvenkatesh@frontline.com,123456,
+Shravya E,,,,Sixth,A,,,,,,9490120865,163@frontline.com,123456,NULL,163,E Suresh,,NULL,9490120865,esuresh@frontline.com,123456,NULL
+Rizwana Begum,,,,Sixth,A,,,,,,9663005915,282@frontline.com,123456,NULL,282,Md Khayum Pasha,,NULL,9663005915,mdkhayumpasha@frontline.com,123456,NULL
+Toorpu seshidhar Reddy,,,,Sixth,A,,,,,,9948484489,283@frontline.com,123456,NULL,283,T Narsi reddy,,,9948484489,tnarsireddy@frontline.com,123456,
+Mohammed Riyahan,,,,Sixth,A,,,,,,9966775542,284@frontline.com,123456,NULL,284,Mohammed Fareed,,,9966775542,mohammedfareed@frontline.com,123456,
+G.Ankitha,,,,Sixth,A,,,,,,8008083983,289@frontline.com,123456,NULL,289,G.Yadagiri,,,8008083983,gyadagiri@frontline.com,123456,
+G Arjun,,,,Seventh,A,,,,,,9553131788,18@frontline.com,123456,NULL,18,Krishna kumar,,,9553131788,krishnakumar@frontline.com,123456,
+Md Parvez,,,,Seventh,A,,,,,,9502460645,19@frontline.com,123456,NULL,19,Md Shabbir,,,9959460513,mdshabbir1@frontline.com,123456,
+Md Ataleeq Shareef,,,,Seventh,A,,,,,,9502460645,20@frontline.com,123456,NULL,20,Md Shabbir,,,9959460513,mdshabbir1@frontline.com,123456,
+Rumeena Afsha,,,,Seventh,A,,,,,,9502460645,21@frontline.com,123456,NULL,21,Md Shabbir,,NULL,9502460645,mdshabbir@frontline.com,123456,NULL
+J Nikhil,,,,Seventh,A,,,,,,9515313777,23@frontline.com,123456,NULL,23,J Ramu,,NULL,9515313777,jramu@frontline.com,123456,NULL
+Sumedha Pandit,,,,Seventh,A,,,,,,9848821383,25@frontline.com,123456,NULL,25,Anil kumar Pandit,,,9848821383,anilkumarpandit@frontline.com,123456,
+B Aditya,,,,Seventh,A,,,,,,9885352314,46@frontline.com,123456,NULL,46,B Santosh,,NULL,9885952314,bsantosh@frontline.com,123456,NULL
+S Devi,,,,Seventh,A,,,,,,8106982179,133@frontline.com,123456,NULL,133,S Venkataiah,,,8106982179,svenkataiah@frontline.com,123456,
+Mahesh M,,,,Seventh,A,,,,,,9535398781,170@frontline.com,123456,NULL,170,Dasharath,,,9535398781,dasharath@frontline.com,123456,
+Md.Asaad,,,,Seventh,A,,,,,,9701428648,285@frontline.com,123456,NULL,285,Mohammed Hameed,,,9701428648,mohammedhameed@frontline.com,123456,
+Kotla Anirudh Reddy,,,,Seventh,A,,,,,,9963335303,286@frontline.com,123456,NULL,286,K.Shashi Vardhan,,,9963335303,kshashivardhan@frontline.com,123456,
+A SAI KUMAR,,,,Seventh,A,,,,,,9618473584,287@frontline.com,123456,NULL,287,A pradeep,,,9618473584,apradeep@frontline.com,123456,
+Dharavath sai kumar,,,,Seventh,A,,,,,,9703198488,288@frontline.com,123456,NULL,288,janaiah,,,9703198488,janaiah@frontline.com,123456,
+M Sai sree,,,,Eighth,A,,,,,,9441225763,002@frontline.com,123456,NULL,2,M Ramulu,,NULL,9441225763,ramulu@frontline.com,123456,NULL
+Abdul Parvez,,,,Eighth,A,,,,,,9985807541,004@frontline.com,123456,NULL,4,MA Aziz,,,9985807541,maaziz@frontline.com,123456,
+Abhishek,,,,Eighth,A,,,,,,8186074232,007@frontline.com,123456,NULL,7,Manik,,,8186074232,manik@frontline.com,123456,
+Sreelatha Sangam,,,,Eighth,A,,,,,,9000628720,008@frontline.com,123456,NULL,8,Srinivas,,,9000628720,srinivas@frontline.com,123456,
+Taleeq Md,male,,,Eighth,A,,,,,,9502460645,10@frontline.com,123456,NULL,10,Md Shabbir,,,9959460513,mdshabbir1@frontline.com,123456,
+J Akshitha,,,,Eighth,A,,,,,,9515313777,14@frontline.com,123456,NULL,14,J Ramu,,NULL,9515313777,jramu@frontline.com,123456,NULL
+Abhu Farhan,,,,Eighth,A,,,,,,9704871300,15@frontline.com,123456,NULL,15,akthar pasha,,NULL,9704871300,Akthar@frontline.com,123456,NULL
+K vaishnavi,NULL,,,First,A,,NULL,,,NULL,9985527517,180@frontline.com,123456,NULL,180,K Ravinder,K Swathi,NULL,9985527517,kravinder@frontline.com,123456,NULL
+Vijay,male,,,First,A,,NULL,,,NULL,9182147231,295@frontline.com,123456,NULL,295,Govind,,,9182147231,govind@frontline.com,123456,
+vishnu vardhan reddy,male,,,Sixth,A,,NULL,,,NULL,9441678509,294@frontline.com,123456,NULL,294,P.Basi Reddy,,NULL,9441678509,pbasi@frontline.com,123456,NULL
+Mohammad Mosyab Khan,male,,,First,A,,NULL,,,NULL,6303486953,1688@frontlineschool.com,123456,NULL,1688,Mohammad Meraj Khan,,NULL,6303486953,mdmerajkhan@frontlineschool.com,123456,NULL
+Mohammad mousaveer Khan,male,,,Second,A,,NULL,,,NULL,6303486953,1689@frontlineschool.com,123456,NULL,1689,Mohammad Meraj Khan,,NULL,6303486953,mdmerajkhan@frontlineschool.com,123456,NULL
+A Sushanth,male,,,Second,A,,NULL,,,NULL,8341114010,147@frontlineschool.com,123456,NULL,147,Madhusudhan,,,8341114010,madhusudhan@frontline.com,123456,
